@@ -1,0 +1,15 @@
+{
+  "name": "hmr",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "isomorphic-ws": "^5.0.0"
+  }
+}
